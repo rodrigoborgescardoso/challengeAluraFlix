@@ -1,0 +1,168 @@
+{
+  "categories": [
+    {
+      "title": "Front-End",
+      "description": "Aulas e dicas sobre HTML, CSS, JavaScript e ReactJS.",
+      "color": "#051699",
+      "id": 1
+    },
+    {
+      "title": "Games",
+      "description": "Reviews e dicas",
+      "color": "#57095d",
+      "id": 3
+    },
+    {
+      "title": "Tecnologia",
+      "description": "As tecnologias mais atuais do mercado em 2023.",
+      "color": "#972c20",
+      "id": 4
+    }
+  ],
+  "videos": [
+    {
+      "title": "useState: aprenda o React Hook neste TUTORIAL | #AluraMais",
+      "urlVideo": "https://www.youtube.com/watch?v=KdQa4Rd6K1A",
+      "urlThumbnail": "https://i.ytimg.com/vi/KdQa4Rd6K1A/maxresdefault.jpg",
+      "category": "Front-End",
+      "description": "Entenda o useState e porque usá-lo é importante para sua aplicação.",
+      "id": 1
+    },
+    {
+      "title": "O que é o JavaScript? | #AluraMais",
+      "urlVideo": "https://www.youtube.com/watch?v=N1BSG02z-Mw",
+      "urlThumbnail": "https://i.ytimg.com/vi/N1BSG02z-Mw/maxresdefault.jpg",
+      "category": "Front-End",
+      "description": "JavaScript é uma das principais linguagens de programação no mercado!",
+      "id": 2
+    },
+    {
+      "title": "Qual a melhor forma de aprender JavaScript? | Hipsters Ponto Tube",
+      "urlVideo": "https://www.youtube.com/watch?v=_Mx64Rkv92c",
+      "urlThumbnail": "https://i.ytimg.com/vi/_Mx64Rkv92c/mqdefault.jpg",
+      "category": "Front-End",
+      "description": "A área de programação é cheia de possibilidades.",
+      "id": 3
+    },
+    {
+      "title": "Functions (Funções) EXPRESSION vs DECLARATION no JavaScript | #AluraMais",
+      "urlVideo": "https://www.youtube.com/watch?v=scAYB-1ODGk",
+      "urlThumbnail": "https://i.ytimg.com/vi/scAYB-1ODGk/maxresdefault.jpg",
+      "category": "Front-End",
+      "description": "Com o Javascript aprenda o que é Function Expression e Function Declaration.",
+      "id": 4
+    },
+    {
+      "title": "useRef: como funciona esse React Hook | #AluraMais",
+      "urlVideo": "https://www.youtube.com/watch?v=BwRxBGsT_f0",
+      "urlThumbnail": "https://i.ytimg.com/vi/BwRxBGsT_f0/maxresdefault.jpg",
+      "category": "Front-End",
+      "description": "Como funciona o useRef?",
+      "id": 5
+    },
+    {
+      "title": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+      "urlVideo": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+      "urlThumbnail": "https://i.ytimg.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+      "category": "Front-End",
+      "description": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores.",
+      "id": 6
+    },
+    {
+      "title": "Template String: Interpolando strings com JavaScript #AluraMais",
+      "urlVideo": "https://www.youtube.com/watch?v=ORI_HTXaIw0",
+      "urlThumbnail": "https://i.ytimg.com/vi/ORI_HTXaIw0/maxresdefault.jpg",
+      "category": "Front-End",
+      "description": "Como funciona o Template String no JavaScript?",
+      "id": 7
+    },
+    {
+      "title": "Componentização com VanillaJS #AluraMais",
+      "urlVideo": "https://www.youtube.com/watch?v=LatCKpcOMak",
+      "urlThumbnail": "https://i.ytimg.com/vi/LatCKpcOMak/maxresdefault.jpg",
+      "category": "Front-End",
+      "description": "Juliana Negreiros fala sobre componentização de telas com VanillaJS.",
+      "id": 8
+    },
+    {
+      "title": "RTX 4070 TI !",
+      "urlVideo": "https://www.youtube.com/watch?v=0_HbRBDl5pM",
+      "urlThumbnail": "https://i.ytimg.com/vi/0_HbRBDl5pM/maxresdefault.jpg",
+      "category": "Tecnologia",
+      "description": "E aí galera! Recebi a RTX 4070 Ti Aorus Master! Pra que placa melhor? Teste e desmontagem!",
+      "id": 9
+    },
+    {
+      "title": "Vai competir? Um curioso Console baseado em Android",
+      "urlVideo": "https://www.youtube.com/watch?v=FyT-MDw7Qu4",
+      "urlThumbnail": "https://i.ytimg.com/vi/FyT-MDw7Qu4/maxresdefault.jpg",
+      "category": "Tecnologia",
+      "description": "Recebemos um protótipo muito interessante de um console portátil.",
+      "id": 12
+    },
+    {
+      "title": "Notebook compacto com alto desempenho",
+      "urlVideo": "https://www.youtube.com/watch?v=w1_caikn174",
+      "urlThumbnail": "https://i.ytimg.com/vi/w1_caikn174/maxresdefault.jpg",
+      "category": "Tecnologia",
+      "description": "Vídeo do Notebook Aero 16 OLED com Intel i9 13900H.",
+      "id": 13
+    },
+    {
+      "title": "ChatGPT Absolutely DOMINATES Raspberry Pi Programming",
+      "urlVideo": "https://www.youtube.com/watch?v=8esLGN1n7zg",
+      "urlThumbnail": "https://i.ytimg.com/vi/8esLGN1n7zg/maxresdefault.jpg",
+      "category": "Tecnologia",
+      "description": "We find out if chatGPT can program our Raspberry Pi...",
+      "id": 14
+    },
+    {
+      "title": "FORZA HORIZON 5",
+      "urlVideo": "https://www.youtube.com/watch?v=E2Ah8Dr9o2I",
+      "urlThumbnail": "https://i.ytimg.com/vi/E2Ah8Dr9o2I/maxresdefault.jpg",
+      "category": "Games",
+      "description": "Forza Horizon 5 se passa no México e conta com paisagens magníficas!",
+      "id": 15
+    },
+    {
+      "title": "RESIDENT EVIL 4 REMAKE",
+      "urlVideo": "https://www.youtube.com/watch?v=AnALJxLC4Hc",
+      "urlThumbnail": "https://i.ytimg.com/vi/AnALJxLC4Hc/maxresdefault.jpg",
+      "category": "Games",
+      "description": "Neste vídeo conferimos o início de gameplay de Resident Evil 4 Remake.",
+      "id": 16
+    },
+    {
+      "title": "Need for Speed Unbound",
+      "urlVideo": "https://www.youtube.com/watch?v=PJ4Tl_3-cNQ",
+      "urlThumbnail": "https://i.ytimg.com/vi/PJ4Tl_3-cNQ/maxresdefault.jpg",
+      "category": "Games",
+      "description": "Need for Speed Unbound (PS5) 4K 60FPS HDR Gameplay",
+      "id": 17
+    },
+    {
+      "title": "The Last of Us Part 1 no PC",
+      "urlVideo": "https://www.youtube.com/watch?v=SdHTqiNEiUI",
+      "urlThumbnail": "https://i.ytimg.com/vi/SdHTqiNEiUI/maxresdefault.jpg",
+      "category": "Games",
+      "description": "Agora é a vez de The Last of Us Part I desembarcar no PC.",
+      "id": 18
+    },
+    {
+      "title": "Star Wars Jedi: Survivor",
+      "urlVideo": "https://www.youtube.com/watch?v=r8UXvITdQU0",
+      "urlThumbnail": "https://i.ytimg.com/vi/r8UXvITdQU0/maxresdefault.jpg",
+      "category": "Games",
+      "description": "O INÍCIO, primeiro gameplay",
+      "id": 19
+    },
+    {
+      "title": "Horizon Forbidden West",
+      "urlVideo": "https://www.youtube.com/watch?v=J8rCukBLnnQ",
+      "urlThumbnail": "https://i.ytimg.com/vi/J8rCukBLnnQ/maxresdefault.jpg",
+      "category": "Games",
+      "description": "O INÍCIO DE GAMEPLAY Dublado em Português",
+      "id": 20
+    }
+  ]
+}
